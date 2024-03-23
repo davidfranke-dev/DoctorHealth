@@ -1,3 +1,6 @@
 [submodule "doctor-health-backend"]
 	path = doctor-health-backend
 	url = https://github.com/davidfranke-dev/doctor-health-backend.git
+[submodule "doctor-health-frontend"]
+	path = doctor-health-frontend
+	url = https://github.com/davidfranke-dev/doctor-health-frontend.git
