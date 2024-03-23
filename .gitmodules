@@ -1,0 +1,3 @@
+[submodule "doctor-health-backend"]
+	path = doctor-health-backend
+	url = https://github.com/davidfranke-dev/doctor-health-backend.git
